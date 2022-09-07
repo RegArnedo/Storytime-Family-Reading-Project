@@ -50,4 +50,4 @@ Vue.js, Java, Spring, PostgreSQL, HTML, CSS, JavaScript
     - GET /readinglog/:id - returns reading log entries of a family member based on ID
 
 ## Acknowledgements
-  A ginormous heartfelt thank you to my team members, [Colin Davis](https://www.linkedin.com/in/colin-randolph-davis/ "Colin Davis"), [Nolan Tsai](https://www.linkedin.com/in/nolantsai/ "Nolan Tsai"), and [Kai Indigo Wolf](https://www.linkedin.com/in/kai-indigo-wolf/ "Kai Indigo Wolf"), and our Scrum Master for the project [Mary Mosman](https://www.linkedin.com/in/mary-mosman/ "Mary Mosman").
+  I couldn't be more grateful for my team members, [Colin Davis](https://www.linkedin.com/in/colin-randolph-davis/ "Colin Davis"), [Nolan Tsai](https://www.linkedin.com/in/nolantsai/ "Nolan Tsai"), and [Kai Indigo Wolf](https://www.linkedin.com/in/kai-indigo-wolf/ "Kai Indigo Wolf"), and our Scrum Master for the project [Mary Mosman](https://www.linkedin.com/in/mary-mosman/ "Mary Mosman").
